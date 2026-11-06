@@ -1,0 +1,11 @@
+.env
+
+# Python bytecode and local validation state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local runtime configuration and data
+*.env
+*.sqlite3
+*.db

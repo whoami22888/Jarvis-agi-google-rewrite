@@ -1,0 +1,8 @@
+<resources>
+    <string name="restriction_gateway_url_title">Trusted gateway URL</string>
+    <string name="restriction_gateway_url_description">HTTPS URL of the WhiteRabbit Neo gateway.</string>
+    <string name="restriction_enrollment_code_title">Enrollment code</string>
+    <string name="restriction_enrollment_code_description">Deployment-provided enrollment secret. Do not place this value in source control.</string>
+    <string name="restriction_device_name_title">Device name</string>
+    <string name="restriction_device_name_description">Optional device label recorded by the gateway.</string>
+</resources>

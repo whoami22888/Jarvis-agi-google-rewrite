@@ -1,0 +1,3 @@
+agent.example.com {
+  reverse_proxy agent-api:8080
+}

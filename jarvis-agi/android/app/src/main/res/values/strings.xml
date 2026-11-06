@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis AGI</string>
+    <string name="accessibility_description">Enables only local, user-approved visible UI interactions proposed in the command center.</string>
+</resources>

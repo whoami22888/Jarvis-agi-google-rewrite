@@ -1,0 +1,23 @@
+# Android local configuration and outputs
+android/local.properties
+android/.gradle/
+android/build/
+android/app/build/
+
+# Gateway secrets and runtime state
+backend/.env
+backend/data/
+backend/tests/.smoke-data/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Backend test runtime state
+backend/tests/.hud-route-data/
+backend/tests/.hybrid-test-data/

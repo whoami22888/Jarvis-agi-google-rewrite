@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.WhiteRabbitNeo" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#9EFFC8</item>
+        <item name="android:navigationBarColor">#07110D</item>
+        <item name="android:statusBarColor">#07110D</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
